@@ -17288,5 +17288,12 @@
     "author": "Mouadhbendjedidi",
     "description": "A Customizable Discord RPC",
     "repo": "Mouadhbendjedidi/themed-obsidian-discord-rpc"
-  }
+},
+  {
+    "id": "latex-math",
+    "name": "Latex Math",
+    "author": "Zarstensen",
+    "description": "Evaluate, solve and much more within LaTeX blocks using Sympy.",
+    "repo": "zarstensen/obsidian-latex-math"
+    }
 ]
